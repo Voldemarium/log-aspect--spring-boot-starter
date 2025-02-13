@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "log.aspect.enable",
+      "type": "java.lang.Boolean",
+      "description": "Enables or disables log_aspect."
+    },
+    {
+      "name": "log.aspect.level",
+      "type": "ch.qos.logback.classic.Level;",
+      "description": "set level (ERROR, WARN, INFO, DEBUG)."
+    }
+  ]
+}
